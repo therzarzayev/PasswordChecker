@@ -106,7 +106,7 @@ namespace PasswordChecker
 			label20.Name = "label20";
 			label20.Size = new System.Drawing.Size(482, 40);
 			label20.TabIndex = 0;
-			label20.Text = "PASSWORD CHECKER 2023";
+			label20.Text = "PASSWORD CHECKER 2021";
 			// 
 			// panel2
 			// 
@@ -135,7 +135,7 @@ namespace PasswordChecker
 			// pictureBox2
 			// 
 			pictureBox2.Image = (System.Drawing.Image)resources.GetObject("pictureBox2.Image");
-			pictureBox2.Location = new System.Drawing.Point(30, -5);
+			pictureBox2.Location = new System.Drawing.Point(-1, -1);
 			pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			pictureBox2.Name = "pictureBox2";
 			pictureBox2.Size = new System.Drawing.Size(1108, 148);
@@ -156,11 +156,10 @@ namespace PasswordChecker
 			// label1
 			// 
 			label1.AutoSize = true;
-			label1.Font = new System.Drawing.Font("Segoe UI", 12.096F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-			label1.Location = new System.Drawing.Point(93, 159);
+			label1.Location = new System.Drawing.Point(127, 168);
 			label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			label1.Name = "label1";
-			label1.Size = new System.Drawing.Size(328, 30);
+			label1.Size = new System.Drawing.Size(245, 21);
 			label1.TabIndex = 81;
 			label1.Text = "Şifrənizi yoxlamaq üçün daxil edin";
 			// 
